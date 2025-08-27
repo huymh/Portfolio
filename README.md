@@ -1,6 +1,6 @@
 # 🗃 Portfolio
 
-Here, I've linked and summarized all projects that I've completed and am currently working on!
+Here, I’ve included links and summaries of all my completed and ongoing projects!
 
 # Python
 | Project Link | Area | Description | Libraries |
