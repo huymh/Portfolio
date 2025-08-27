@@ -5,7 +5,7 @@ Here, I’ve included links and summaries of all my completed and ongoing projec
 # Python
 | Project Link | Area | Description | Libraries |
 |---|---|---|---|
-| 💳 [Consumer Spending](https://github.com/huymh/Consumer-Spending-Project)| Time-series analysis | Conducted a time-series analysis of consumer spending during and after the COVID-19 lockdown using aggregated and anonymized credit and debit card transaction data from Affinity Solutions. The project examined trends across industries, income groups, and geographies to understand how spending behavior shifted throughout the pandemic. | numpy, pandas, matplotlib |
+| 💳 [Consumer Spending](https://github.com/huymh/Consumer-Spending-Project)| Time-series analysis | A time-series analysis of consumer spending during and after the COVID-19 using aggregated and anonymized credit and debit card transaction data from Affinity Solutions. The project examines trends across industries, income groups, and geographies to understand how spending behavior shifted throughout the pandemic. | numpy, pandas, matplotlib |
 
 # Dashboards
 | Project Link | Visualization Tool | Description | Other Tools Used |
